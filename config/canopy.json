@@ -1,4 +1,7 @@
 {
   "collection": "https://digital.lib.utk.edu/assemble/collection/collections/rfta",
-  "metadata": ["Subject", "Date", "Place"]
+  "metadata": ["Subject", "Date", "Place"],
+  "components": {
+    "viewer": "ramp"
+  }
 }
